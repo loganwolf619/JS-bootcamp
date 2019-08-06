@@ -32,3 +32,11 @@ firstName = "Shayek"
 console.log (lastName)
 console.log (firstName)
 console.log(lastName + ' ' + firstName)
+
+
+const numOne = 100.99
+const numTwo = 56.97
+
+const result = numTwo -numOne
+console.log(result)
+
