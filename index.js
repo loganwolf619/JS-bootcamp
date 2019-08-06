@@ -1,4 +1,4 @@
-console.log ("Hello World")
+/*console.log ("Hello World")
 myf();
 
 function myf()
@@ -18,7 +18,17 @@ bla = 2;
 var bla;
 
 // ...is implicitly understood as:
-
+*/
 var bla;
 bla = 2
 console.log(bla);
+
+let name = "Nelson Centre"
+name = "NZ"
+console.log(name);
+
+const lastName = "Milton"
+firstName = "Shayek"
+console.log (lastName)
+console.log (firstName)
+console.log(lastName + ' ' + firstName)
