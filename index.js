@@ -13,3 +13,12 @@ myf();
 // Testing 
 var name = 'Milton'
 console.log(name)
+
+bla = 2;
+var bla;
+
+// ...is implicitly understood as:
+
+var bla;
+bla = 2
+console.log(bla);
