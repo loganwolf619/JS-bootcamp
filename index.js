@@ -9,3 +9,7 @@ function myf()
 
 console.log ("The continution of work on the system")
 myf();
+
+// Testing 
+var name = 'Milton'
+console.log(name)
