@@ -19,14 +19,14 @@ var bla;
 
 // ...is implicitly understood as:
 */
-var bla;
+/*var bla;
 bla = 2
 console.log(bla);
 
 let name = "Nelson Centre"
 name = "NZ"
 console.log(name);
-
+*/
 const lastName = "Milton"
 firstName = "Shayek"
 console.log (lastName)
@@ -34,9 +34,16 @@ console.log (firstName)
 console.log(lastName + ' ' + firstName)
 
 
-const numOne = 100.99
+/*const numOne = 100.99
 const numTwo = 56.97
 
-const result = numTwo -numOne
+const result = numTwo - numOne
 console.log(result)
+
+*/
+const numOne = 12
+const numTwo = 5
+
+const result2 = numTwo % numOne
+console.log(result2)
 
